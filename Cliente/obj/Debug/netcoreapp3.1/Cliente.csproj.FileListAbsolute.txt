@@ -1,0 +1,11 @@
+C:\Users\BETO\source\repos\Cliente\bin\Debug\netcoreapp3.1\Cliente.exe
+C:\Users\BETO\source\repos\Cliente\bin\Debug\netcoreapp3.1\Cliente.deps.json
+C:\Users\BETO\source\repos\Cliente\bin\Debug\netcoreapp3.1\Cliente.runtimeconfig.json
+C:\Users\BETO\source\repos\Cliente\bin\Debug\netcoreapp3.1\Cliente.runtimeconfig.dev.json
+C:\Users\BETO\source\repos\Cliente\bin\Debug\netcoreapp3.1\Cliente.dll
+C:\Users\BETO\source\repos\Cliente\bin\Debug\netcoreapp3.1\Cliente.pdb
+C:\Users\BETO\source\repos\Cliente\obj\Debug\netcoreapp3.1\Cliente.csprojAssemblyReference.cache
+C:\Users\BETO\source\repos\Cliente\obj\Debug\netcoreapp3.1\Cliente.AssemblyInfoInputs.cache
+C:\Users\BETO\source\repos\Cliente\obj\Debug\netcoreapp3.1\Cliente.AssemblyInfo.cs
+C:\Users\BETO\source\repos\Cliente\obj\Debug\netcoreapp3.1\Cliente.dll
+C:\Users\BETO\source\repos\Cliente\obj\Debug\netcoreapp3.1\Cliente.pdb
